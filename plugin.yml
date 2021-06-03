@@ -1,0 +1,11 @@
+name: LiftsGUI
+author: Nomi
+version: 1.0
+api: 3.0.0
+main: LiftsGUI\Nomi\Main
+
+commands:
+  liftsgui:
+    description: Lifts menu commands
+    permission: Lifts.open.menu  
+    default: true
